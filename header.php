@@ -60,8 +60,10 @@
                                         </li>
                                         <li class="dropdown"><a href="#">Korparativ boshqaruv</a>
                                             <ul>
-                                                <li><a href="doc1.php">Boshqaruv organlari</a></li>
+                                            <li><a href="doc1.php">Boshqaruv organlari</a></li>
                                                     <li><a href="#">--Kuzatuv Kengashi </a></li>
+                                                    <li><a href="#">--Ijro Organi </a></li>
+                                                    <li><a href="#">--Ichki audit xizmati </a></li>
                                                 <li><a href="doc1.php">ichki xujjatlar</a></li>
                                                 <li><a href="document/aksiyador.pdf">Aksiyadorlar++</a></li>
                                                 <li><a href="document/Ташкилий тузилма.pdf">Tashkiliy tuzilma++</a></li>

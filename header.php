@@ -62,14 +62,14 @@
                                         <li class="dropdown"><a href="#">Korparativ boshqaruv</a>
                                             <ul>
                                             <li><a href="doc1.php">Boshqaruv organlari</a></li>
-                                                    <li><a href="document/Кузатув%20кенгаши.pdf">--Kuzatuv Kengashi ++</a></li>
-                                                    <li><a href="document/Ижроия%20органи.pdf">--Ijro Organi++ </a></li>
+                                                    <li><a href="document/Кузатувкенгаши.pdf">--Kuzatuv Kengashi ++</a></li>
+                                                    <li><a href="document/Ижроияоргани.pdf">--Ijro Organi++ </a></li>
                                                     <li><a href=""document/AUDIT.pdf>--Ichki audit xizmati ++</a></li>
                                                     <li><a href="document/Бошқарув_органлар_томонидан_тузилган_комиссиялар,_кенгашлар,_қўмиталар.pdf">--Boshqaruv organlar tomonidan tuzilgan (komissiyalar, kengashlar, qo`mitalar)++</a></li>
                                                 <li><a href="doc1.php">ichki xujjatlar</a></li>
                                                 <li><a href="document/УСТАВ%202018.pdf">--Ustav++ </a></li>
                                                 <li><a href="#">--Nizomlar </a></li>
-                                                <li><a href="document/Корпоратив%20Бошкарув%20Кодекси.pdf">--Korporativ boshqaruv kodeksi++ </a></li>
+                                                <li><a href="document/КорпоративБошкарувКодекси.pdf">--Korporativ boshqaruv kodeksi++ </a></li>
                                                 <li><a href="document/aksiyador.pdf">Aksiyadorlar++</a></li>
                                                 <li><a href="document/Ўз%20акцияларини%20олиш.pdf">O`z aksiyalarini olish ++</a></li>
                                                 <li><a href="document/Ташкилий тузилма.pdf">Tashkiliy tuzilma++</a></li>
@@ -84,7 +84,7 @@
                                                 <li><a href="document/Мухим_факт_№8_Ижроия_органи_таркибидаги_узгаришлар.pdf">--Muxim faktlar++</a></li>
                                                 <li><a href="yillik_xisobot.php">--Yillik xisobotlar++</a></li>
                                                 <li><a href="choraklik_xisobot.php">--Choraklik xisobotlar++</a></li>
-                                                <li><a href="document/Асосий%20курсаткичлар%20-%20копия.pdf">--Asosiy ko`rsatgichlar to`g`risida++</a></li>
+                                                <li><a href="document/Асосийкурсаткичлар.pdf">--Asosiy ko`rsatgichlar to`g`risida++</a></li>
                                                 <li><a href="audit_xulosasi.php">--Audit xulosalari++</a></li>
 
                                                 <li><a href="document/2022_йил_18_август_Жамият_акциядорларининг_навбатдаги_умумий_йиғилиши.pdf">umumiy yig`ilish qarorlari++</a></li>

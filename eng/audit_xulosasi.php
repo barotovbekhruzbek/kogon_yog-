@@ -24,14 +24,14 @@
     <div class="container">
         <div class="part-4">
             <div class="main-text">
-                <h2> Yillik xisobotlar </h2>
+                <h2> Conclusions of audit organizations </h2>
             </div>
             <div class="wrapper">
                 <div class="card">
                     <div class="icon-file">
-                        <a href="document/yillik_xisobot/2019.pdf">
+                        <a href="../../kogonyog.uz/document/2021.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
-                            <p>2019 -yil </p>
+                            <p>Audit report on national standards for 2021</p>
                             <button class="btn-danger"> ko`rish </button>
                         </a>
                     </div>
@@ -39,9 +39,9 @@
                 <!--         2              -->
                 <div class="card">
                     <div class="icon-file">
-                        <a href="document/yillik_xisobot/2020.pdf">
+                        <a href="../../kogonyog.uz/document/2020.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
-                            <p>2020 -yil</p>
+                            <p>Audit report on national standards for 2020</p>
                             <button class="btn-danger"> ko`rish </button>
                         </a>
                     </div>
@@ -50,18 +50,13 @@
                 <!--        3            -->
                 <div class="card">
                     <div class="icon-file">
-                        <a href="document/yillik_xisobot/2021.pdf">
+                        <a href="../../kogonyog.uz/document/2019.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
-                            <p>2021- yil</p>
+                            <p>Audit report on national standards for 2019</p>
                             <button class="btn-danger"> ko`rish </button>
                         </a>
                     </div>
                 </div>
-
-
-
-
-
 
 
 

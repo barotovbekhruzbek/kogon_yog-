@@ -87,7 +87,7 @@
                                                 <li><a href="document/asosiyk.pdf">--Asosiy ko`rsatgichlar to`g`risida++</a></li>
                                                 <li><a href="audit_xulosasi.php">--Audit xulosalari++</a></li>
 
-                                                <li><a href="document/umumiyyi.pdf">umumiy yig`ilish qarorlari++</a></li>
+                                                <li><a href="document/yigilish.pdf">umumiy yig`ilish qarorlari++</a></li>
                                                 <li><a href="doc/b_plan_2021.pdf">Biznes reja 2021 +++</a></li>
                                                 <li><a href="doc/b_plan_2022.pdf">Biznes reja 2022 +++</a></li>
                                                 <li><a href="doc/b_plan_all.pdf">Biznes reja 21-22-2023 +++</a></li>
@@ -148,7 +148,7 @@
                                                 <li><a href="doc1.php">Bo`sh ish urinlari</a></li>
                                                 <li><a href="document/qabul.pdf">Qabul kunlari++</a></li>
                                                 <li><a href="ommaviy_tadbirlar.php">Ommaviy tadbirlar ++</a></li>
-                                                <li><a href="document/Ривожланиш%20стратегияси.pdf">Rivojlanish strategiyasi++</a></li>
+                                                <li><a href="document/rivojlanishstrategiyasi.pdf">Rivojlanish strategiyasi++</a></li>
                                                 <li><a href="#">Tarkibiy bo`linma</a></li>
 
 
@@ -158,17 +158,17 @@
                                         <li class="dropdown"><a href="#">Korparativ boshqaruv</a>
                                             <ul>
                                                 <li><a href="doc1.php">Boshqaruv organlari</a></li>
-                                                <li><a href="document/Кузатув%20кенгаши.pdf">--Kuzatuv Kengashi ++</a></li>
-                                                <li><a href="document/Ижроия%20органи.pdf">--Ijro Organi++ </a></li>
-                                                <li><a href=""document/AUDIT.pdf>--Ichki audit xizmati ++</a></li>
+                                                <li><a href="document/kuzatuvkengashi.pdf">--Kuzatuv Kengashi ++</a></li>
+                                                <li><a href="document/ijroorgani.pdf">--Ijro Organi++ </a></li>
+                                                <li><a href="document/AUDIT.pdf">--Ichki audit xizmati ++</a></li>
                                                 <li><a href="document/boshqaruvorganlari.pdf">--Boshqaruv organlar tomonidan tuzilgan (komissiyalar, kengashlar, qo`mitalar)++</a></li>
                                                 <li><a href="doc1.php">ichki xujjatlar</a></li>
-                                                <li><a href="document/УСТАВ%202018.pdf">--Ustav++ </a></li>
-                                                <li><a href="#">--Nizomlar </a></li>
-                                                <li><a href="document/Корпоратив%20Бошкарув%20Кодекси.pdf">--Korporativ boshqaruv kodeksi++ </a></li>
+                                                <li><a href="document/ustav2018.pdf">--Ustav++ </a></li>
+                                                <li><a href="nizom.php">--Nizomlar++ </a></li>
+                                                <li><a href="document/boshqaruv.pdf">--Korporativ boshqaruv kodeksi++ </a></li>
                                                 <li><a href="document/aksiyador.pdf">Aksiyadorlar++</a></li>
-                                                <li><a href="document/Ўз%20акцияларини%20олиш.pdf">O`z aksiyalarini olish ++</a></li>
-                                                <li><a href="document/Ташкилийтузилма.pdf">Tashkiliy tuzilma++</a></li>
+                                                <li><a href="document/aksiyaolish.pdf">O`z aksiyalarini olish ++</a></li>
+                                                <li><a href="document/tashkiliy.pdf">Tashkiliy tuzilma++</a></li>
                                                 <li><a href="document/affi.pdf">Affillangan shaxslar++</a></li>
 
                                             </ul>
@@ -180,10 +180,10 @@
                                                 <li><a href="document/fakt.pdf">--Muxim faktlar++</a></li>
                                                 <li><a href="yillik_xisobot.php">--Yillik xisobotlar++</a></li>
                                                 <li><a href="choraklik_xisobot.php">--Choraklik xisobotlar++</a></li>
-                                                <li><a href="document/Асосий%20курсаткичлар%20-%20копия.pdf">--Asosiy ko`rsatgichlar to`g`risida++</a></li>
+                                                <li><a href="document/asosiyk.pdf">--Asosiy ko`rsatgichlar to`g`risida++</a></li>
                                                 <li><a href="audit_xulosasi.php">--Audit xulosalari++</a></li>
 
-                                                <li><a href="document/2022_йил_18_август_Жамият_акциядорларининг_навбатдаги_умумий_йиғилиши.pdf">umumiy yig`ilish qarorlari++</a></li>
+                                                <li><a href="document/yigilish.pdf">umumiy yig`ilish qarorlari++</a></li>
                                                 <li><a href="doc/b_plan_2021.pdf">Biznes reja 2021 +++</a></li>
                                                 <li><a href="doc/b_plan_2022.pdf">Biznes reja 2022 +++</a></li>
                                                 <li><a href="doc/b_plan_all.pdf">Biznes reja 21-22-2023 +++</a></li>
@@ -199,8 +199,8 @@
                                                 <li><a href="doc/konkurs.pdf" target="_blink">Tandovlar va tendirlar+++</a></li>
                                             </ul>
                                         </li>
-                                        <li class="current"><a href="contact.php">Aloqa+</a></li>
-                                        
+                                        <li class="current"><a href="contact.php">Aloqa+++</a></li>
+
                                     </ul>
 
 

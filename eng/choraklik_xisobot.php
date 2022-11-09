@@ -28,7 +28,7 @@
                    <div class="wrapper">
                        <div class="card">
                             <div class="icon-file">
-                                <a href="document/Чоракликхисобот2020йил1чорак.pdf">
+                                <a href="document/20201chorak.pdf">
                                     <i class="fa fa-file" aria-hidden="true"></i>
                                     <p>2020-yil I chorak</p>
                                     <button class="btn-danger"> ko`rish </button>
@@ -38,7 +38,7 @@
                     <!--         2              -->
                        <div class="card">
                            <div class="icon-file">
-                               <a href="document/Чоракликхисобот2020йил2чорак.pdf">
+                               <a href="document/20202chorak.pdf">
                                    <i class="fa fa-file" aria-hidden="true"></i>
                                    <p>2020-yil II chorak</p>
                                    <button class="btn-danger"> ko`rish </button>
@@ -49,7 +49,7 @@
                     <!--        3            -->
                        <div class="card">
                            <div class="icon-file">
-                               <a href="document/Чоракликхисобот2020йи3чорак.pdf">
+                               <a href="document/20203chorak.pdf">
                                    <i class="fa fa-file" aria-hidden="true"></i>
                                    <p>2020-yil III chorak</p>
                                    <button class="btn-danger"> ko`rish </button>
@@ -60,7 +60,7 @@
                     <!--        4         -->
                        <div class="card">
                            <div class="icon-file">
-                               <a href="document/Чоракликхисобот2021йил1чорак.pdf">
+                               <a href="document/20211chorak.pdf">
                                    <i class="fa fa-file" aria-hidden="true"></i>
                                    <p>2021-yil I chorak</p>
                                    <button class="btn-danger"> ko`rish </button>
@@ -76,7 +76,7 @@
                    <div class="wrapper">
                        <div class="card">
                            <div class="icon-file">
-                               <a href="document/Чоракликхисобот2021йил2чорак.pdf">
+                               <a href="document/20212chorak.pdf">
                                    <i class="fa fa-file" aria-hidden="true"></i>
                                    <p>2021-yil II chorak</p>
                                    <button class="btn-danger"> ko`rish </button>
@@ -86,7 +86,7 @@
                        <!--         2              -->
                        <div class="card">
                            <div class="icon-file">
-                               <a href="document/Чоракликхисобот2021йил3чорак.pdf">
+                               <a href="document/20213chorak.pdf">
                                    <i class="fa fa-file" aria-hidden="true"></i>
                                    <p>2021-yil III chorak</p>
                                    <button class="btn-danger"> ko`rish </button>
@@ -97,7 +97,7 @@
                        <!--        3            -->
                        <div class="card">
                            <div class="icon-file">
-                               <a href="document/Чоракликхисобот2022йил1чорак.pdf">
+                               <a href="document/20221chorak.pdf">
                                    <i class="fa fa-file" aria-hidden="true"></i>
                                    <p>2022-yil I chorak</p>
                                    <button class="btn-danger"> ko`rish </button>
@@ -108,9 +108,9 @@
                        <!--        4         -->
                        <div class="card">
                            <div class="icon-file">
-                               <a href="document/Чоракликхисобот2022йил2чорак.pdf">
+                               <a href="document/20222chorak.pdf">
                                    <i class="fa fa-file" aria-hidden="true"></i>
-                                   <p>2022-yil I chorak</p>
+                                   <p>2022-yil II chorak</p>
                                    <button class="btn-danger"> ko`rish </button>
                                </a>
                            </div>

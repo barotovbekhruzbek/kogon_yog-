@@ -82,7 +82,7 @@
                                                 <li><a href="yillik_xisobot.php">--Annual reports++</a></li>
                                                 <li><a href="choraklik_xisobot.php">--Quarterly reports++</a></li>
                                                 <li><a href="document/Maincharacteristics.pdf">--Main characteristics++ </a></li>
-                                                <li><a href="doc1.php">--Conclusions of audit organizations  </a></li>
+                                                <li><a href="audit_xulosasi.php">--Conclusions of audit organizations++  </a></li>
                                                 <li><a href="document/2022_йил_18_август_Жамият_акциядорларининг_навбатдаги_умумий_йиғилиши.pdf">Decisions of the general meeting of shareholders</a></li>
                                                 <li><a href="doc/b_plan_2021.pdf">Business plan 2021++</a></li>
                                                 <li><a href="doc/b_plan_2022.pdf">Business plan 2022++ </a></li>

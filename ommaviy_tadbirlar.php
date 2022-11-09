@@ -29,7 +29,7 @@
             <div class="wrapper">
                 <div class="card">
                     <div class="icon-file">
-                        <a href="document/tadbirlar/Поездки_организованные_обществом_в_святые_места.pdf">
+                        <a href="document/tadbirlar/ziyorat.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
                             <p>Ziyoratlar </p>
                             <button class="btn-danger"> ko`rish </button>
@@ -39,7 +39,7 @@
                 <!--         2              -->
                 <div class="card">
                     <div class="icon-file">
-                        <a href="document/tadbirlar/Kagan.%20New%20Year%20celebration.%20Organizer%20Kogon%20yog%20JSC.pdf">
+                        <a href="document/tadbirlar/yangi.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
                             <p>Yangi yil</p>
                             <button class="btn-danger"> ko`rish </button>

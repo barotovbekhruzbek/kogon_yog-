@@ -34,7 +34,7 @@
                 <div class="col-md-12 col-sm-12 col-xs-12 service-colmun">
                     <div class="sidebar-details">
                         <div class="content-style-one">
-                            <h1 style="color: black; text-align: center; font-size:200%">Kogonyog.uz - Emissiya risolalari</h1><br>
+                            <h1 style="color: black; text-align: center; font-size:200%">Kogonyog.uz Issue prospectus</h1><br>
                             
                             <div class="title">
                                 <ul>

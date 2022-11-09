@@ -23,7 +23,7 @@
             <div class="container">
                <div class="part-4">
                 <div class="main-text">
-                    <h2> Choraklik Xisobotlar </h2>
+                    <h2> Quarterly reports </h2>
                 </div>
                    <div class="wrapper">
                        <div class="card">

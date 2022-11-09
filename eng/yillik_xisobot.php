@@ -24,25 +24,25 @@
     <div class="container">
         <div class="part-4">
             <div class="main-text">
-                <h2> Yillik xisobotlar </h2>
+                <h2> Annual reports </h2>
             </div>
             <div class="wrapper">
                 <div class="card">
                     <div class="icon-file">
-                        <a href="document/yillik_xisobot/Йиллик%20Хисобот%202019%20йил%20якуни.pdf">
+                        <a href="document/yillikxisobot/AnnualReport2019.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
-                            <p>2019 -yil </p>
-                            <button class="btn-danger"> ko`rish </button>
+                            <p> Annual Report 2019 </p>
+                            <button class="btn-danger"> view file </button>
                         </a>
                     </div>
                 </div>
                 <!--         2              -->
                 <div class="card">
                     <div class="icon-file">
-                        <a href="document/yillik_xisobot/Йиллик%20Хисобот%202020%20йил%20якуни.pdf">
+                        <a href="document/yillikxisobot/AnnualReport2020.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
-                            <p>2020 -yil</p>
-                            <button class="btn-danger"> ko`rish </button>
+                            <p>Annual Report 2020</p>
+                            <button class="btn-danger"> view file </button>
                         </a>
                     </div>
                 </div>
@@ -50,10 +50,10 @@
                 <!--        3            -->
                 <div class="card">
                     <div class="icon-file">
-                        <a href="document/yillik_xisobot/Йиллик%20Хисобот%202021%20йил%20якуни.pdf">
+                        <a href="document/yillikxisobot/AnnualReport2021.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
-                            <p>2021- yil</p>
-                            <button class="btn-danger"> ko`rish </button>
+                            <p>Annual Report 2021</p>
+                            <button class="btn-danger"> view file </button>
                         </a>
                     </div>
                 </div>

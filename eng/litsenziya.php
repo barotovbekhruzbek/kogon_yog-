@@ -24,7 +24,7 @@
     <div class="container">
         <div class="part-4">
             <div class="main-text">
-                <h2> Litsenziya va Sertifikatlar </h2>
+                <h2> Licenses and certificates </h2>
             </div>
             <div class="wrapper">
                 <div class="card">

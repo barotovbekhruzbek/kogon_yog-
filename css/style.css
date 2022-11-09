@@ -2754,3 +2754,10 @@ textarea:focus{
 .button-top .flags_lang{
   margin-left: 20px;
 }
+@media only screen and (max-width: 490px){
+  .header-upper .top-right .button-top a {
+  padding: 0px;
+  }
+
+
+  }

@@ -64,7 +64,7 @@
                                             <li><a href="doc1.php">Boshqaruv organlari</a></li>
                                                     <li><a href="document/kuzatuvkengashi.pdf">--Kuzatuv Kengashi ++</a></li>
                                                     <li><a href="document/ijroorgani.pdf">--Ijro Organi++ </a></li>
-                                                    <li><a href=""document/AUDIT.pdf>--Ichki audit xizmati ++</a></li>
+                                                    <li><a href="document/AUDIT.pdf">--Ichki audit xizmati ++</a></li>
                                                     <li><a href="document/boshqaruvorganlari.pdf">--Boshqaruv organlar tomonidan tuzilgan (komissiyalar, kengashlar, qo`mitalar)++</a></li>
                                                 <li><a href="doc1.php">ichki xujjatlar</a></li>
                                                 <li><a href="document/ustav2018.pdf">--Ustav++ </a></li>

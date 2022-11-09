@@ -29,7 +29,7 @@
             <div class="wrapper">
                 <div class="card">
                     <div class="icon-file">
-                        <a href="document/yillik_xisobot/Йиллик%20Хисобот%202019%20йил%20якуни.pdf">
+                        <a href="document/yillik_xisobot/2019.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
                             <p>2019 -yil </p>
                             <button class="btn-danger"> ko`rish </button>
@@ -39,7 +39,7 @@
                 <!--         2              -->
                 <div class="card">
                     <div class="icon-file">
-                        <a href="document/yillik_xisobot/Йиллик%20Хисобот%202020%20йил%20якуни.pdf">
+                        <a href="document/yillik_xisobot/2020.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
                             <p>2020 -yil</p>
                             <button class="btn-danger"> ko`rish </button>
@@ -50,7 +50,7 @@
                 <!--        3            -->
                 <div class="card">
                     <div class="icon-file">
-                        <a href="document/yillik_xisobot/Йиллик%20Хисобот%202021%20йил%20якуни.pdf">
+                        <a href="document/yillik_xisobot/2021.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
                             <p>2021- yil</p>
                             <button class="btn-danger"> ko`rish </button>

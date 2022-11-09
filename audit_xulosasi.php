@@ -29,7 +29,7 @@
             <div class="wrapper">
                 <div class="card">
                     <div class="icon-file">
-                        <a href="document/2021йилякуниБуйичааудитхулосасиМСАХ.pdf">
+                        <a href="document/2021.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
                             <p>2021 -yil yakuni bo`yicha audit xulosasi</p>
                             <button class="btn-danger"> ko`rish </button>
@@ -39,7 +39,7 @@
                 <!--         2              -->
                 <div class="card">
                     <div class="icon-file">
-                        <a href="document/2020_йил_якуни_Буйича_аудит_хулосаси_МСАХ.pdf">
+                        <a href="document/2020.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
                             <p>2020 -yil yakuni bo`yicha audit xulosasi</p>
                             <button class="btn-danger"> ko`rish </button>
@@ -50,7 +50,7 @@
                 <!--        3            -->
                 <div class="card">
                     <div class="icon-file">
-                        <a href="document/2019_йил_якуни_Буйича_аудит_хулосаси_МСАХ.pdf">
+                        <a href="document/2019.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
                             <p>2019 -yil yakuni bo`yicha audit xulosasi</p>
                             <button class="btn-danger"> ko`rish </button>

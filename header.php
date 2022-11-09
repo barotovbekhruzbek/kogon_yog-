@@ -87,7 +87,7 @@
                                                 <li><a href="document/asosiyk.pdf">--Asosiy ko`rsatgichlar to`g`risida++</a></li>
                                                 <li><a href="audit_xulosasi.php">--Audit xulosalari++</a></li>
 
-                                                <li><a href="document/umumiyyi.pdf">umumiy yig`ilish qarorlari++</a></li>
+                                                <li><a href="document/yigilish.pdf">umumiy yig`ilish qarorlari++</a></li>
                                                 <li><a href="doc/b_plan_2021.pdf">Biznes reja 2021 +++</a></li>
                                                 <li><a href="doc/b_plan_2022.pdf">Biznes reja 2022 +++</a></li>
                                                 <li><a href="doc/b_plan_all.pdf">Biznes reja 21-22-2023 +++</a></li>
@@ -183,7 +183,7 @@
                                                 <li><a href="document/Асосий%20курсаткичлар%20-%20копия.pdf">--Asosiy ko`rsatgichlar to`g`risida++</a></li>
                                                 <li><a href="audit_xulosasi.php">--Audit xulosalari++</a></li>
 
-                                                <li><a href="document/2022_йил_18_август_Жамият_акциядорларининг_навбатдаги_умумий_йиғилиши.pdf">umumiy yig`ilish qarorlari++</a></li>
+                                                <li><a href="document/yigilish.pdf">umumiy yig`ilish qarorlari++</a></li>
                                                 <li><a href="doc/b_plan_2021.pdf">Biznes reja 2021 +++</a></li>
                                                 <li><a href="doc/b_plan_2022.pdf">Biznes reja 2022 +++</a></li>
                                                 <li><a href="doc/b_plan_all.pdf">Biznes reja 21-22-2023 +++</a></li>

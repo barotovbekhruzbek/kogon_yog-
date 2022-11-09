@@ -29,7 +29,7 @@
             <div class="wrapper">
                 <div class="card">
                     <div class="icon-file">
-                        <a href="document/sertifikat/УЗБЕКИСТОН%20РЕСПУБЛИКАСИ.pdf">
+                        <a href="document/sertifikat/sogliq.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
                             <p>2021 -yil O`zbekiston Respublikasi Sog`liqni saqlash vazirligi </p>
                             <button class="btn-danger"> ko`rish </button>
@@ -39,7 +39,7 @@
                 <!--         2              -->
                 <div class="card">
                     <div class="icon-file">
-                        <a href="document/sertifikat/НАЦИОНАЛЬНАЯ_СИСТЕМА_СЕРТИФИКАЦИИ.pdf">
+                        <a href="document/sertifikat/milliy.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
                             <p>2022- yil O`zbekiston Respublikasi Milliy Sertifikati</p>
                             <button class="btn-danger"> ko`rish </button>
@@ -50,7 +50,7 @@
                 <!--        3            -->
                 <div class="card">
                     <div class="icon-file">
-                        <a href="document/sertifikat/НАЦИОНАЛЬНАЯ_СИСТЕМА_СЕРТИФИКАЦИИ_РЕСПУБЛИКИ_УЗБЕКИСТАН.pdf">
+                        <a href="document/sertifikat/milliy2.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
                             <p>2019 - yil O`zbekiston Respublikasi Milliy Sertifikati</p>
                             <button class="btn-danger"> ko`rish </button>
@@ -61,15 +61,7 @@
 
 
 
-                <div class="card">
-                    <div class="icon-file">
-                        <a href="document/sertifikat/НАЦИОНАЛЬНАЯ_СИСТЕМА_СЕРТИФИКАЦИИ_РЕСПУБЛИКИ_УЗБЕКИСТАН.pdf">
-                            <i class="fa fa-file" aria-hidden="true"></i>
-                            <p>2019 - yil O`zbekiston Respublikasi Milliy Sertifikati</p>
-                            <button class="btn-danger"> ko`rish </button>
-                        </a>
-                    </div>
-                </div>
+
 
 
 
@@ -77,55 +69,7 @@
             </div>
 
 
-            <div class="wrapper">
-                <div class="card">
-                    <div class="icon-file">
-                        <a href="document/sertifikat/УЗБЕКИСТОН%20РЕСПУБЛИКАСИ.pdf">
-                            <i class="fa fa-file" aria-hidden="true"></i>
-                            <p>2021 -yil O`zbekiston Respublikasi Sog`liqni saqlash vazirligi </p>
-                            <button class="btn-danger"> ko`rish </button>
-                        </a>
-                    </div>
-                </div>
-                <!--         2              -->
-                <div class="card">
-                    <div class="icon-file">
-                        <a href="document/sertifikat/НАЦИОНАЛЬНАЯ_СИСТЕМА_СЕРТИФИКАЦИИ.pdf">
-                            <i class="fa fa-file" aria-hidden="true"></i>
-                            <p>2022- yil O`zbekiston Respublikasi Milliy Sertifikati</p>
-                            <button class="btn-danger"> ko`rish </button>
-                        </a>
-                    </div>
-                </div>
 
-                <!--        3            -->
-                <div class="card">
-                    <div class="icon-file">
-                        <a href="document/sertifikat/НАЦИОНАЛЬНАЯ_СИСТЕМА_СЕРТИФИКАЦИИ_РЕСПУБЛИКИ_УЗБЕКИСТАН.pdf">
-                            <i class="fa fa-file" aria-hidden="true"></i>
-                            <p>2019 - yil O`zbekiston Respublikasi Milliy Sertifikati</p>
-                            <button class="btn-danger"> ko`rish </button>
-                        </a>
-                    </div>
-                </div>
-
-
-
-
-                <div class="card">
-                    <div class="icon-file">
-                        <a href="document/sertifikat/НАЦИОНАЛЬНАЯ_СИСТЕМА_СЕРТИФИКАЦИИ_РЕСПУБЛИКИ_УЗБЕКИСТАН.pdf">
-                            <i class="fa fa-file" aria-hidden="true"></i>
-                            <p>2019 - yil O`zbekiston Respublikasi Milliy Sertifikati</p>
-                            <button class="btn-danger"> ko`rish </button>
-                        </a>
-                    </div>
-                </div>
-
-
-
-
-            </div>
 
         </div>
     </div>

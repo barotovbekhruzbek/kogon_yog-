@@ -24,7 +24,7 @@
     <div class="container">
         <div class="part-4">
             <div class="main-text">
-                <h2> Ommaviy Tadbirlar </h2>
+                <h2> Публичные мероприятия </h2>
             </div>
             <div class="wrapper">
                 <div class="card">

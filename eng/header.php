@@ -45,14 +45,14 @@
                                     <ul class="navigation clearfix">
                                         <li class="dropdown"><a href="#">About company </a>
                                             <ul>
-                                                <li><a href="aboute.php">About company </a></li>
+                                                <li><a href="document/history.pdf">About company++ </a></li>
                                                 <li><a href="document/GoalsandObjectivesofJSC.pdf">Goals and objectives of the  company++</a></li>
                                                 <li><a href="document/management.pdf">Management++</a></li>
                                                 <li><a href="product.php">Products++ </a></li>
                                                 <li><a href="doc1.php">Vacancy</a></li>
                                                 <li><a href="document/Receptiondays.pdf">Reception days++</a></li>
                                                 <li><a href="ommaviy_tadbirlar.php">Public events++</a></li>
-                                                <li><a href="doc1.php">Development strategy</a></li>
+                                                <li><a href="document/developmentstrategy.pdf">Development strategy++</a></li>
                                                 <li><a href="doc1.php">Subdivisions </a></li>
 
                                             </ul>
@@ -65,12 +65,12 @@
                                                 <li><a href="document/CEO.pdf">--CEO++</a></li>
                                                 <li><a href="document/AUDIT.pdf">--Internal Audit Service++</a></li>
                                                 <li><a href="doc1.php">Internal documents  </a></li>
-                                                <li><a href="doc1.php">--Charter  </a></li>
-                                                <li><a href="doc1.php">--Regulations </a></li>
-                                                <li><a href="doc1.php">--Corporate Governance Code </a></li>
+                                                <li><a href="nizom.php">--Charter ++ </a></li>
+                                                <li><a href="document/ustav2018.pdf">--Regulations++ </a></li>
+                                                <li><a href="document/boshqaruv.pdf">--Corporate Governance Code++ </a></li>
                                                 <li><a href="document/sholders.pdf">Shareholders++</a></li>
                                                 <li><a href="document/organisition.pdf">Organizational structure++</a></li>
-                                                <li><a href="document/Аффилланган-шахслар-руйхати.pdf">Affiliates</a></li>
+                                                <li><a href="document/afflan.pdf">Affiliates</a></li>
 
                                             </ul>
                                             

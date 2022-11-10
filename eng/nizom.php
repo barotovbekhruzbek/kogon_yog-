@@ -24,25 +24,25 @@
     <div class="container">
         <div class="part-4">
             <div class="main-text">
-                <h2> Nizomlar </h2>
+                <h2> Charter </h2>
             </div>
             <div class="wrapper">
                 <div class="card">
                     <div class="icon-file">
-                        <a href="document/nizomlar/aksiyadorningyigilishitogrisidaginizom.pdf">
+                        <a href="document/nizomlar/1.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
-                            <p>Aksiyadorlarning umumiy yig`ilish to`g`risidagi nizom </p>
-                            <button class="btn-danger"> ko`rish </button>
+                            <p>Regulations on the Audit Committee </p>
+                            <button class="btn-danger"> view file </button>
                         </a>
                     </div>
                 </div>
                 <!--         2              -->
                 <div class="card">
                     <div class="icon-file">
-                        <a href="document/nizomlar/auditqomitasi.pdf">
+                        <a href="document/nizomlar/2.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
-                            <p>Audit qo`mitasi to`g`risida nizom</p>
-                            <button class="btn-danger"> ko`rish </button>
+                            <p>Regulations on the General Meeting of Shareholders</p>
+                            <button class="btn-danger"> view file </button>
                         </a>
                     </div>
                 </div>
@@ -51,10 +51,10 @@
 
                 <div class="card">
                     <div class="icon-file">
-                        <a href="document/nizomlar/ijroiyanizom.pdf">
+                        <a href="document/nizomlar/3.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
-                            <p>Ijroiya to`g`risida nizom</p>
-                            <button class="btn-danger"> ko`rish </button>
+                            <p>Regulations on the Supervisory Board</p>
+                            <button class="btn-danger"> view file </button>
                         </a>
                     </div>
                 </div>
@@ -62,10 +62,10 @@
 
                 <div class="card">
                     <div class="icon-file">
-                        <a href="document/nizomlar/korrupsiya.pdf">
+                        <a href="document/nizomlar/4.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
-                            <p>Korrupsiyaga qarshi kurashish va etika qo`mitasi to`g`risidagi nizom</p>
-                            <button class="btn-danger"> ko`rish </button>
+                            <p>Regulations on the CEO</p>
+                            <button class="btn-danger"> view file </button>
                         </a>
                     </div>
                 </div>
@@ -80,20 +80,20 @@
             <div class="wrapper">
                 <div class="card">
                     <div class="icon-file">
-                        <a href="document/nizomlar/kuzatuvkengashi.pdf">
+                        <a href="document/nizomlar/5.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
-                            <p>Kuzatuv kengashi to`grisidagi nizom</p>
-                            <button class="btn-danger"> ko`rish </button>
+                            <p>Regulations on the Nomination and Remuneration Committee</p>
+                            <button class="btn-danger"> view file </button>
                         </a>
                     </div>
                 </div>
                 <!--         2              -->
                 <div class="card">
                     <div class="icon-file">
-                        <a href="document/nizomlar/strategiya.pdf">
+                        <a href="document/nizomlar/6.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
-                            <p>Strategiya ba investitsiyalar qo`mitasi to`g`risidagi nizom</p>
-                            <button class="btn-danger"> ko`rish </button>
+                            <p>Regulations on the investment committee</p>
+                            <button class="btn-danger"> view file </button>
                         </a>
                     </div>
                 </div>
@@ -102,10 +102,10 @@
 
                 <div class="card">
                     <div class="icon-file">
-                        <a href="document/nizomlar/tayinlov.pdf">
+                        <a href="document/nizomlar/7.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
-                            <p>Tayinlovlar va mukofotlash qo`mitasi to`g`risida nimoz</p>
-                            <button class="btn-danger"> ko`rish </button>
+                            <p>Regulations on the Anti-Corruption and Ethics Committee</p>
+                            <button class="btn-danger"> view file </button>
                         </a>
                     </div>
                 </div>

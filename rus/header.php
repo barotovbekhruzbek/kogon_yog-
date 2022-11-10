@@ -128,14 +128,14 @@
                                     <ul class="navigation clearfix">
                                         <li class="dropdown"><a href="#">Об обществе </a>
                                             <ul>
-                                                <li><a href="aboute.php">Об обществе </a></li>
-                                                <li><a href="document/maqsad.pdf">Цели и задачи общества</a></li>
-                                                <li><a href="document/raxbariyat.pdf">Руководство</a></li>
-                                                <li><a href="product.php">Выпускаемая продукция </a></li>
+                                                <li><a href="document/istoriya.pdf">Об обществе ++</a></li>
+                                                <li><a href="document/sel.pdf">Цели и задачи общества ++</a></li>
+                                                <li><a href="document/rukavostka.pdf">Руководство ++</a></li>
+                                                <li><a href="product.php">Выпускаемая продукция ++</a></li>
                                                 <li><a href="doc1.php">Вакансии</a></li>
-                                                <li><a href="document/qabul.pdf">Приемные дни </a></li>
-                                                <li><a href="doc1.php">Публичные мероприятия</a></li>
-                                                <li><a href="doc1.php">Стратегия развития</a></li>
+                                                <li><a href="document/priemdni.pdf">Приемные дни ++</a></li>
+                                                <li><a href="ommaviy_tadbirlar.php">Публичные мероприятия++</a></li>
+                                                <li><a href="document/strategiya.pdf">Стратегия развития++</a></li>
                                                 <li><a href="doc1.php">Подразделения </a></li>
 
                                             </ul>
@@ -158,9 +158,9 @@
                                                 <li><a href="doc1.php">Открытая информация</a></li>
                                                 <li><a href="doc1.php">Открытая информация</a></li>
                                                 <li><a href="doc1.php">umumiy yig`ilish qarorlari</a></li>
-                                                <li><a href="doc/b_plan_2021.pdf">Бизнес план 2021</a></li>
-                                                <li><a href="doc/b_plan_2022.pdf">Бизнес план 2022 </a></li>
-                                                <li><a href="doc/b_plan_all.pdf">Бизнес план 21-22-2023 </a></li>
+                                                <li><a href="doc/b_plan_2021.pdf">Бизнес план 2021++</a></li>
+                                                <li><a href="doc/b_plan_2022.pdf">Бизнес план 2022 ++</a></li>
+                                                <li><a href="doc/b_plan_all.pdf">Бизнес план 21-22-2023++ </a></li>
                                                 <li><a href="doc/dvident_uz.docx">Дивиденды</a></li>
                                                 <li><a href="emissiyalar.php">Проспект Эмиссии +++</a></li>
 

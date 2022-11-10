@@ -30,7 +30,7 @@
                             <div class="icon-file">
                                 <a href="document/20201chorak.pdf">
                                     <i class="fa fa-file" aria-hidden="true"></i>
-                                    <p>2020-yil I chorak</p>
+                                    <p>Quarterly report for the 1st quarter of 2021</p>
                                     <button class="btn-danger"> ko`rish </button>
                                 </a>
                             </div>
@@ -40,7 +40,7 @@
                            <div class="icon-file">
                                <a href="document/20202chorak.pdf">
                                    <i class="fa fa-file" aria-hidden="true"></i>
-                                   <p>2020-yil II chorak</p>
+                                   <p>Quarterly report for the 2nd quarter of 2020</p>
                                    <button class="btn-danger"> ko`rish </button>
                                </a>
                            </div>
@@ -51,7 +51,7 @@
                            <div class="icon-file">
                                <a href="document/20203chorak.pdf">
                                    <i class="fa fa-file" aria-hidden="true"></i>
-                                   <p>2020-yil III chorak</p>
+                                   <p>Quarterly report for the 3rd quarter of 2020</p>
                                    <button class="btn-danger"> ko`rish </button>
                                </a>
                            </div>
@@ -62,7 +62,7 @@
                            <div class="icon-file">
                                <a href="document/20211chorak.pdf">
                                    <i class="fa fa-file" aria-hidden="true"></i>
-                                   <p>2021-yil I chorak</p>
+                                   <p>Quarterly report for the 1st quarter of 2021</p>
                                    <button class="btn-danger"> ko`rish </button>
                                </a>
                            </div>
@@ -78,7 +78,7 @@
                            <div class="icon-file">
                                <a href="document/20212chorak.pdf">
                                    <i class="fa fa-file" aria-hidden="true"></i>
-                                   <p>2021-yil II chorak</p>
+                                   <p>Quarterly report for the 2nd quarter of 2021</p>
                                    <button class="btn-danger"> ko`rish </button>
                                </a>
                            </div>
@@ -88,7 +88,7 @@
                            <div class="icon-file">
                                <a href="document/20213chorak.pdf">
                                    <i class="fa fa-file" aria-hidden="true"></i>
-                                   <p>2021-yil III chorak</p>
+                                   <p>Quarterly report for the 3rd quarter of 2021</p>
                                    <button class="btn-danger"> ko`rish </button>
                                </a>
                            </div>
@@ -99,7 +99,7 @@
                            <div class="icon-file">
                                <a href="document/20221chorak.pdf">
                                    <i class="fa fa-file" aria-hidden="true"></i>
-                                   <p>2022-yil I chorak</p>
+                                   <p>Quarterly report for the 1st quarter of 2022</p>
                                    <button class="btn-danger"> ko`rish </button>
                                </a>
                            </div>
@@ -110,7 +110,7 @@
                            <div class="icon-file">
                                <a href="document/20222chorak.pdf">
                                    <i class="fa fa-file" aria-hidden="true"></i>
-                                   <p>2022-yil II chorak</p>
+                                   <p>Quarterly report for the 2nd quarter of 2022</p>
                                    <button class="btn-danger"> ko`rish </button>
                                </a>
                            </div>

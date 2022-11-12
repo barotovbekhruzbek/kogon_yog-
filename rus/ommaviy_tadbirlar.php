@@ -32,7 +32,7 @@
                         <a href="document/tadbirlar/ziyorat.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
                             <p>Ziyoratlar </p>
-                            <button class="btn-danger"> ko`rish </button>
+                            <button class="btn-danger"> Смотреть </button>
                         </a>
                     </div>
                 </div>
@@ -42,7 +42,7 @@
                         <a href="document/tadbirlar/yangi.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
                             <p>Yangi yil</p>
-                            <button class="btn-danger"> ko`rish </button>
+                            <button class="btn-danger"> Смотреть </button>
                         </a>
                     </div>
                 </div>

@@ -45,53 +45,63 @@
                                     <ul class="navigation clearfix">
                                         <li class="dropdown"><a href="#">Об обществе </a>
                                             <ul>
-                                                <li><a href="aboute.php">Об обществе </a></li>
-                                                <li><a href="document/maqsad.pdf">Цели и задачи общества</a></li>
-                                                <li><a href="document/raxbariyat.pdf">Руководство</a></li>
-                                                <li><a href="product.php">Выпускаемая продукция </a></li>
+                                                <li><a href="document/istoriya.pdf">Об обществе ++</a></li>
+                                                <li><a href="document/sel.pdf">Цели и задачи общества ++</a></li>
+                                                <li><a href="document/rukavostka.pdf">Руководство ++</a></li>
+                                                <li><a href="product.php">Выпускаемая продукция ++</a></li>
                                                 <li><a href="doc1.php">Вакансии</a></li>
-                                                <li><a href="document/qabul.pdf">Приемные дни </a></li>
-                                                <li><a href="doc1.php">Публичные мероприятия</a></li>
-                                                <li><a href="doc1.php">Стратегия развития</a></li>
+                                                <li><a href="document/priemdni.pdf">Приемные дни ++</a></li>
+                                                <li><a href="ommaviy_tadbirlar.php">Публичные мероприятия++</a></li>
+                                                <li><a href="document/strategiya.pdf">Стратегия развития++</a></li>
                                                 <li><a href="doc1.php">Подразделения </a></li>
 
                                             </ul>
-                                            
+
                                         </li>
                                         <li class="dropdown"><a href="#">Копоративное Управление</a>
                                             <ul>
                                                 <li><a href="doc1.php">Копоративное Управление</a></li>
                                                 <li><a href="doc1.php">Органы Управления  </a></li>
-                                                <li><a href="document/aksiyador.pdf">Акционеры</a></li>
-                                                <li><a href="document/Ташкилий тузилма.pdf">Организационная структура</a></li>
-                                                <li><a href="document/Аффилланган-шахслар-руйхати.pdf">Аффилированные лица</a></li>
+                                                <li><a href="document/sovet.pdf">--Наблюдательный совет++  </a></li>
+                                                <li><a href="document/organ.pdf">--Исполнительный орган ++ </a></li>
+                                                <li><a href="document/slujbaauidit.pdf">--Служба внутренненго аудита ++ </a></li>
+                                                <li><a href="doc1.php">Внутренние документы </a></li>
+                                                <li><a href="document/ustav2018.pdf">--Устав ++</a></li>
+                                                <li><a href="nizom.php">--Положения </a></li>
+                                                <li><a href="document/boshqaruv.pdf">--Кодекс корпоративного управления++ </a></li>
+
+                                                <li><a href="document/aksiyador.pdf">Акционеры++</a></li>
+                                                <li><a href="document/organizationstruktura.pdf">Организационная структура++</a></li>
+                                                <li><a href="document/afflanganshaxslar.pdf">Аффилированные лица++</a></li>
 
                                             </ul>
-                                            
+
                                         </li>
                                         <li class="dropdown"><a href="news.php">Инвесторам</a>
                                             <ul>
                                                 <li><a href="doc1.php">Открытая информация</a></li>
-                                                <li><a href="doc1.php">Открытая информация</a></li>
-                                                <li><a href="doc1.php">Открытая информация</a></li>
-                                                <li><a href="doc1.php">umumiy yig`ilish qarorlari</a></li>
-                                                <li><a href="doc/b_plan_2021.pdf">Бизнес план 2021</a></li>
-                                                <li><a href="doc/b_plan_2022.pdf">Бизнес план 2022 </a></li>
-                                                <li><a href="doc/b_plan_all.pdf">Бизнес план 21-22-2023 </a></li>
+                                                <li><a href="document/fakt.pdf">--Суцщественные  факты++</a></li>
+                                                <li><a href="yillik_xisobot.php">--Годовые отчеты++</a></li>
+                                                <li><a href="choraklik_xisobot.php">--Квартальные отчеты++</a></li>
+                                                <li><a href="document/osnovnoykorsatgich.pdf">--Oсновные показатели++</a></li>
+                                                <li><a href="audit_xulosasi.php">--Заключения аудиторских организаций++</a></li>
+                                                <li><a href="doc/b_plan_2021.pdf">Бизнес план 2021++</a></li>
+                                                <li><a href="doc/b_plan_2022.pdf">Бизнес план 2022 ++</a></li>
+                                                <li><a href="doc/b_plan_all.pdf">Бизнес план 21-22-2023++ </a></li>
                                                 <li><a href="doc/dvident_uz.docx">Дивиденды</a></li>
                                                 <li><a href="emissiyalar.php">Проспект Эмиссии +++</a></li>
 
-                                                <li><a href="doc1.php">Лицензии и сертификаты</a></li>
+                                                <li><a href="doc1.php">Лицензии и сертификаты++</a></li>
                                             </ul>
-                                        </li>                                        
+                                        </li>
                                         <li class="dropdown"><a href="">Новости</a>
                                             <ul>
-                                                <li><a href="aboute.php">О проведении ОСА</a></li>
-                                                <li><a href="doc/konkurs.pdf" target="_blink">Конкурсы и тендеры</a></li>
+                                                <li><a href="document/umumiyyi.pdf">О проведении ОСА++</a></li>
+                                                <li><a href="tanlovlar.php">Конкурсы и тендеры ++</a></li>
                                             </ul>
                                         </li>
                                         <li class="current"><a href="contact.php">Контакты</a></li>
-                                    
+
                                     </ul>
                                     
                                 </div>
@@ -150,8 +160,8 @@
                                                 <li><a href="document/slujbaauidit.pdf">--Служба внутренненго аудита ++ </a></li>
                                                 <li><a href="doc1.php">Внутренние документы </a></li>
                                                 <li><a href="document/ustav2018.pdf">--Устав ++</a></li>
-                                                <li><a href="doc1.php">--Положения </a></li>
-                                                <li><a href="doc1.php">--Кодекс корпоративного управления </a></li>
+                                                <li><a href="nizom.php">--Положения </a></li>
+                                                <li><a href="document/boshqaruv.pdf">--Кодекс корпоративного управления++ </a></li>
 
                                                 <li><a href="document/aksiyador.pdf">Акционеры++</a></li>
                                                 <li><a href="document/organizationstruktura.pdf">Организационная структура++</a></li>
@@ -171,16 +181,15 @@
                                                 <li><a href="doc/b_plan_2021.pdf">Бизнес план 2021++</a></li>
                                                 <li><a href="doc/b_plan_2022.pdf">Бизнес план 2022 ++</a></li>
                                                 <li><a href="doc/b_plan_all.pdf">Бизнес план 21-22-2023++ </a></li>
-                                                <li><a href="doc/dvident_uz.docx">Решения ОСА</a></li>
                                                 <li><a href="doc/dvident_uz.docx">Дивиденды</a></li>
                                                 <li><a href="emissiyalar.php">Проспект Эмиссии +++</a></li>
 
-                                                <li><a href="doc1.php">Лицензии и сертификаты</a></li>
+                                                <li><a href="doc1.php">Лицензии и сертификаты++</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="">Новости</a>
                                             <ul>
-                                                <li><a href="aboute.php">О проведении ОСА</a></li>
+                                                <li><a href="document/umumiyyi.pdf">О проведении ОСА++</a></li>
                                                 <li><a href="tanlovlar.php">Конкурсы и тендеры ++</a></li>
                                             </ul>
                                         </li>

@@ -24,15 +24,15 @@
     <div class="container">
         <div class="part-4">
             <div class="main-text">
-                <h2> Audit xulosalari </h2>
+                <h2> Заключения аудиторских организаций </h2>
             </div>
             <div class="wrapper">
                 <div class="card">
                     <div class="icon-file">
                         <a href="document/2021.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
-                            <p>2021 -yil yakuni bo`yicha audit xulosasi</p>
-                            <button class="btn-danger"> ko`rish </button>
+                            <p>2021 -год</p>
+                            <button class="btn-danger"> Смотреть </button>
                         </a>
                     </div>
                 </div>
@@ -41,8 +41,8 @@
                     <div class="icon-file">
                         <a href="document/2020.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
-                            <p>2020 -yil yakuni bo`yicha audit xulosasi</p>
-                            <button class="btn-danger"> ko`rish </button>
+                            <p>2020 -год</p>
+                            <button class="btn-danger"> Смотреть </button>
                         </a>
                     </div>
                 </div>
@@ -52,8 +52,8 @@
                     <div class="icon-file">
                         <a href="document/2019.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
-                            <p>2019 -yil yakuni bo`yicha audit xulosasi</p>
-                            <button class="btn-danger"> ko`rish </button>
+                            <p>2019 -год</p>
+                            <button class="btn-danger"> Смотреть </button>
                         </a>
                     </div>
                 </div>

@@ -24,25 +24,25 @@
     <div class="container">
         <div class="part-4">
             <div class="main-text">
-                <h2> Заключения аудиторских организаций </h2>
+                <h2>  Affiliates </h2>
             </div>
             <div class="wrapper">
                 <div class="card">
                     <div class="icon-file">
-                        <a href="document/2021.pdf">
+                        <a href="document/aflangan/2017.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
-                            <p>2021 -год</p>
-                            <button class="btn-danger"> Смотреть </button>
+                            <p>2020 -year </p>
+                            <button class="btn-danger"> view </button>
                         </a>
                     </div>
                 </div>
                 <!--         2              -->
                 <div class="card">
                     <div class="icon-file">
-                        <a href="document/2020.pdf">
+                        <a href="document/aflangan/2020.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
-                            <p>2020 -год</p>
-                            <button class="btn-danger"> Смотреть </button>
+                            <p>2017 -year</p>
+                            <button class="btn-danger"> view </button>
                         </a>
                     </div>
                 </div>
@@ -50,10 +50,10 @@
                 <!--        3            -->
                 <div class="card">
                     <div class="icon-file">
-                        <a href="document/2019.pdf">
+                        <a href="document/aflangan/2022.pdf">
                             <i class="fa fa-file" aria-hidden="true"></i>
-                            <p>2019 -год</p>
-                            <button class="btn-danger"> Смотреть </button>
+                            <p>2022 - year</p>
+                            <button class="btn-danger"> view </button>
                         </a>
                     </div>
                 </div>

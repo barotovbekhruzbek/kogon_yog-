@@ -49,7 +49,7 @@
                                                 <li><a href="document/GoalsandObjectivesofJSC.pdf">Goals and objectives of the  company++</a></li>
                                                 <li><a href="document/management.pdf">Management++</a></li>
                                                 <li><a href="product.php">Products++ </a></li>
-                                                <li><a href="doc1.php">Vacancy</a></li>
+                                                <li><a href="document/ishurni.pdf">Vacancy</a></li>
                                                 <li><a href="document/Receptiondays.pdf">Reception days++</a></li>
                                                 <li><a href="ommaviy_tadbirlar.php">Public events++</a></li>
                                                 <li><a href="document/developmentstrategy.pdf">Development strategy++</a></li>
@@ -69,8 +69,8 @@
                                                 <li><a href="document/ustav2018.pdf">--Regulations++ </a></li>
                                                 <li><a href="document/boshqaruv.pdf">--Corporate Governance Code++ </a></li>
                                                 <li><a href="document/sholders.pdf">Shareholders++</a></li>
-                                                <li><a href="document/organisition.pdf">Organizational structure++</a></li>
-                                                <li><a href="document/afflan.pdf">Affiliates</a></li>
+                                                <li><a href="document/Organizationalstructure.pdf">Organizational structure++</a></li>
+                                                <li><a href="afflanganlar.php">Affiliates</a></li>
 
                                             </ul>
                                             
@@ -134,55 +134,63 @@
                                 </div>
                                 <div class="navbar-collapse collapse clearfix">
                                     <ul class="navigation clearfix">
-                                        <li class="dropdown"><a href="#">About company</a>
+                                        <li class="dropdown"><a href="#">About company </a>
                                             <ul>
-                                            <li><a href="aboute.php">About company</a></li>
-                                                <li><a href="document/maqsad.pdf">Goals and objectives of the  company</a></li>
-                                                <li><a href="document/raxbariyat.pdf">Management</a></li>
-                                                <li><a href="product.php">Products </a></li>
+                                                <li><a href="document/history.pdf">About company++ </a></li>
+                                                <li><a href="document/GoalsandObjectivesofJSC.pdf">Goals and objectives of the  company++</a></li>
+                                                <li><a href="document/management.pdf">Management++</a></li>
+                                                <li><a href="product.php">Products++ </a></li>
                                                 <li><a href="doc1.php">Vacancy</a></li>
-                                                <li><a href="document/qabul.pdf">Reception days</a></li>
-                                                <li><a href="doc1.php">Public events</a></li>
-                                                <li><a href="doc1.php">Development strategy</a></li>
+                                                <li><a href="document/Receptiondays.pdf">Reception days++</a></li>
+                                                <li><a href="ommaviy_tadbirlar.php">Public events++</a></li>
+                                                <li><a href="document/developmentstrategy.pdf">Development strategy++</a></li>
                                                 <li><a href="doc1.php">Subdivisions </a></li>
 
                                             </ul>
-                                            
+
                                         </li>
                                         <li class="dropdown"><a href="#">Corporate Governance</a>
                                             <ul>
                                                 <li><a href="doc1.php">Governing bodies</a></li>
+                                                <li><a href="document/Super.pdf">--Supervisory Board++</a></li>
+                                                <li><a href="document/CEO.pdf">--CEO++</a></li>
+                                                <li><a href="document/AUDIT.pdf">--Internal Audit Service++</a></li>
                                                 <li><a href="doc1.php">Internal documents  </a></li>
-                                                <li><a href="document/Sheholder%20strucrure.pdf">Shareholders</a></li>
-                                                <li><a href="document/Ташкилий тузилма.pdf">Organizational structure</a></li>
-                                                <li><a href="document/Аффилланган-шахслар-руйхати.pdf">Affiliates</a></li>
+                                                <li><a href="nizom.php">--Charter ++ </a></li>
+                                                <li><a href="document/ustav2018.pdf">--Regulations++ </a></li>
+                                                <li><a href="document/boshqaruv.pdf">--Corporate Governance Code++ </a></li>
+                                                <li><a href="document/sholders.pdf">Shareholders++</a></li>
+                                                <li><a href="document/Organizationalstructure.pdf">Organizational structure++</a></li>
+                                                <li><a href="afflanganlar.php">Affiliates</a></li>
 
                                             </ul>
-                                            
+
                                         </li>
                                         <li class="dropdown"><a href="news.php">Investors</a>
                                             <ul>
                                                 <li><a href="doc1.php">Open information</a></li>
-                                                <li><a href="doc1.php">Essential Facts</a></li>
-                                                <li><a href="doc1.php">Annual reports</a></li>
-                                                <li><a href="doc1.php">Quarterly reports</a></li>
-                                                <li><a href="doc/b_plan_2021.pdf">Business plan 2021</a></li>
-                                                <li><a href="doc/b_plan_2022.pdf">Business plan 2022 </a></li>
-                                                <li><a href="doc/b_plan_all.pdf">Business plan 21-22-2023 </a></li>
-                                                <li><a href="document/Dividends.pdf">Dividends</a></li>
-                                                <li><a href="emissiyalar.php">Issue prospectus </a></li>
-
-                                                <li><a href="doc1.php">Licenses and certificates</a></li>
+                                                <li><a href="document/fact.pdf">--Essential Facts++</a></li>
+                                                <li><a href="yillik_xisobot.php">--Annual reports++</a></li>
+                                                <li><a href="choraklik_xisobot.php">--Quarterly reports++</a></li>
+                                                <li><a href="document/Maincharacteristics.pdf">--Main characteristics++ </a></li>
+                                                <li><a href="audit_xulosasi.php">--Conclusions of audit organizations++  </a></li>
+                                                <li><a href="document/2022_йил_18_август_Жамият_акциядорларининг_навбатдаги_умумий_йиғилиши.pdf">Decisions of the general meeting of shareholders</a></li>
+                                                <li><a href="doc/b_plan_2021.pdf">Business plan 2021++</a></li>
+                                                <li><a href="doc/b_plan_2022.pdf">Business plan 2022++ </a></li>
+                                                <li><a href="doc/b_plan_all.pdf">Business plan 21-22-2023 ++</a></li>
+                                                <li><a href="document/Dividends.pdf">Dividends++</a></li>
+                                                <li><a href="emissiyalar.php">Issue prospectus++ </a></li>
+                                                <li><a href="litsenziya.php">Licenses and certificates++</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="">News</a>
                                             <ul>
-                                                <li><a href="aboute.php">On holding the General Meeting of Shareholders</a></li>
-                                                <li><a href="tanlovlar.php">Competitions and tenders</a></li>
+                                                <li><a href="document/To_the_attention_of_the_shareholders_of_“Kogon_Yog’_ekstraksiya.docx">On holding the General Meeting of Shareholders++</a></li>
+                                                <li><a href="document/tenders.pdf" target="_blink">Competitions and tenders++</a></li>
                                             </ul>
                                         </li>
                                         <li class="current"><a href="contact.php">Contacts</a></li>
-                                        
+
                                     </ul>
 
 

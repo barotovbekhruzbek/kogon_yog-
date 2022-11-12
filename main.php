@@ -134,7 +134,7 @@
             <div class="row">
                 <div class="col-md-4 col-sm-6 col-xs-12 feature-colmun">
                     <div class="single-item">
-                        <div class="img-box"><figure><img src="images/feature/1.jpg" alt=""></figure></div>
+                        <div class="img-box"><figure><img src="images/product/sovun.jpg" alt=""></figure></div>
                         <div class="single-content">
                             <div class="icon-box"><i class="flaticon-graphic"></i></div>
                             <h4>1 - Tur maxsulot</h4>
@@ -145,7 +145,7 @@
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12 feature-colmun">
                     <div class="single-item">
-                        <div class="img-box"><figure><img src="images/feature/2.jpg" alt=""></figure></div>
+                        <div class="img-box"><figure><img src="images/product/yog.jpg" alt=""></figure></div>
                         <div class="single-content">
                             <div class="icon-box"><i class="flaticon-graph"></i></div>
                             <h4>2 - Tur maxsulot</h4>
@@ -156,7 +156,7 @@
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12 feature-colmun">
                     <div class="single-item">
-                        <div class="img-box"><figure><img src="images/feature/3.jpg" alt=""></figure></div>
+                        <div class="img-box"><figure><img src="images/product/shrot.jpg" alt=""></figure></div>
                         <div class="single-content">
                             <div class="icon-box"><i class="flaticon-money"></i></div>
                             <h4>3 - Tur maxsulot</h4>
@@ -186,27 +186,27 @@
                     <div class="three-column-carousel">
                         <div class="single-item">
                             <div class="icon-box"><img src="images/product/1.jpg" width="70px" alt=""></div>
-                            <h4><a href="service-details.php">New Maxsulot 1</a></h4>
+                            <h4><a href="">New Maxsulot 1</a></h4>
                             <div class="text"><p>Bizning new maxsulot 1 ishlab chiqaryapmiz va sotuvga xam bor </p></div>
                         </div>
                         <div class="single-item">
-                            <div class="icon-box"><img src="images/product/1.jpg" width="70px" alt=""></div>
-                            <h4><a href="service-details.php">New Maxsulot 2</a></h4>
+                            <div class="icon-box"><img src="images/product/yog.jpg" width="70px" alt=""></div>
+                            <h4><a href="">New Maxsulot 2</a></h4>
                             <div class="text"><p>Bizning new maxsulot 2 ishlab chiqaryapmiz va sotuvga xam bor </p></div>
                         </div>
                         <div class="single-item">
-                            <div class="icon-box"><img src="images/product/1.jpg" width="70px" alt=""></div>
-                            <h4><a href="service-details.php">New Maxsulot 3</a></h4>
+                            <div class="icon-box"><img src="images/product/shulxa.jpg" width="70px" alt=""></div>
+                            <h4><a href="">New Maxsulot 3</a></h4>
                             <div class="text"><p>Bizning new maxsulot 3 ishlab chiqaryapmiz va sotuvga xam bor </p></div>
                         </div>
                         <div class="single-item">
-                            <div class="icon-box"><img src="images/product/1.jpg" width="70px" alt=""></div>
-                            <h4><a href="service-details.php">New Maxsulot 4</a></h4>
+                            <div class="icon-box"><img src="images/product/shrot.jpg" width="70px" alt=""></div>
+                            <h4><a href="">New Maxsulot 4</a></h4>
                             <div class="text"><p>Bizning new maxsulot 4 ishlab chiqaryapmiz va sotuvga xam bor </p></div>
                         </div>
                         <div class="single-item">
-                            <div class="icon-box"><img src="images/product/1.jpg" width="70px" alt=""></div>
-                            <h4><a href="service-details.php">New Maxsulot 5</a></h4>
+                            <div class="icon-box"><img src="images/product/sovun.jpg" width="70px" alt=""></div>
+                            <h4><a href="">New Maxsulot 5</a></h4>
                             <div class="text"><p>Bizning new maxsulot 5 ishlab chiqaryapmiz va sotuvga xam bor </p></div>
                         </div>
                        
@@ -229,11 +229,11 @@
             <div class="gallery-slider">
                 <div class="single-item">
                     <div class="img-box">
-                        <figure><img src="images/gallery/1.jpg" alt=""></figure>
+                        <figure><img src="images/product/yog.jpg" alt=""></figure>
                         <div class="overlay">
                             <div class="box">
                                 <div class="content">
-                                    <a href="images/gallery/1.jpg" class="lightbox-image"><i class="fa fa-plus" aria-hidden="true"></i></a>
+                                    <a href="images/product/yog.jpg" class="lightbox-image"><i class="fa fa-plus" aria-hidden="true"></i></a>
                                     <h5>Photo Tytle Here</h5>
                                 </div>
                             </div>
@@ -242,11 +242,11 @@
                 </div>
                 <div class="single-item">
                     <div class="img-box">
-                        <figure><img src="images/gallery/1.jpg" alt=""></figure>
+                        <figure><img src="images/product/shulxa.jpg" alt=""></figure>
                         <div class="overlay">
                             <div class="box">
                                 <div class="content">
-                                    <a href="images/gallery/1.jpg" class="lightbox-image"><i class="fa fa-plus" aria-hidden="true"></i></a>
+                                    <a href="images/product/shulxa.jpg" class="lightbox-image"><i class="fa fa-plus" aria-hidden="true"></i></a>
                                     <h5>Photo Tytle Here</h5>
                                 </div>
                             </div>
@@ -255,11 +255,11 @@
                 </div>
                 <div class="single-item">
                     <div class="img-box">
-                        <figure><img src="images/gallery/1.jpg" alt=""></figure>
+                        <figure><img src="images/product/sovun.jpg" alt=""></figure>
                         <div class="overlay">
                             <div class="box">
                                 <div class="content">
-                                    <a href="images/gallery/1.jpg" class="lightbox-image"><i class="fa fa-plus" aria-hidden="true"></i></a>
+                                    <a href="images/product/sovun.jpg" class="lightbox-image"><i class="fa fa-plus" aria-hidden="true"></i></a>
                                     <h5>Photo Tytle Here</h5>
                                 </div>
                             </div>
@@ -268,30 +268,18 @@
                 </div>
                 <div class="single-item">
                     <div class="img-box">
-                        <figure><img src="images/gallery/1.jpg" alt=""></figure>
+                        <figure><img src="images/product/shrot.jpg" alt=""></figure>
                         <div class="overlay">
                             <div class="box">
                                 <div class="content">
-                                    <a href="images/gallery/1.jpg" class="lightbox-image"><i class="fa fa-plus" aria-hidden="true"></i></a>
+                                    <a href="images/product/shrot.jpg" class="lightbox-image"><i class="fa fa-plus" aria-hidden="true"></i></a>
                                     <h5>Photo Tytle Here</h5>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="single-item">
-                    <div class="img-box">
-                        <figure><img src="images/gallery/1.jpg" alt=""></figure>
-                        <div class="overlay">
-                            <div class="box">
-                                <div class="content">
-                                    <a href="images/gallery/1.jpg" class="lightbox-image"><i class="fa fa-plus" aria-hidden="true"></i></a>
-                                    <h5>Photo Tytle Here</h5>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+               
 
                
              
@@ -449,14 +437,14 @@
                             <div class="col-md-5 col-sm-5 col-xs-12 team-colmun">
                                 <div class="clearfix">
                                     <figure class="img-box pull-left">
-                                        <a href="team.php"><img src="images/team/1.jpg" alt=""></a>
+                                        <a href=""><img src="images/team/1.jpg" alt=""></a>
                                     </figure>
                                 </div>
                             </div>
                             <div class="col-md-7 col-sm-7 col-xs-12 team-colmun">
                                 <div class="team-content">
                                     <div class="team-info">
-                                        <div class="team-text"><a href="team.php">Shavkat Mirziyoyev</a></div>
+                                        <div class="team-text"><a href="">Shavkat Mirziyoyev</a></div>
                                         <span>Direktor</span>
                                     </div>
                                     <div class="text">
@@ -480,14 +468,14 @@
                             <div class="col-md-5 col-sm-5 col-xs-12 team-colmun">
                                 <div class="clearfix">
                                     <figure class="img-box pull-left">
-                                        <a href="team.php"><img src="images/team/1.jpg" alt=""></a>
+                                        <a href=""><img src="images/team/1.jpg" alt=""></a>
                                     </figure>
                                 </div>
                             </div>
                             <div class="col-md-7 col-sm-7 col-xs-12 team-colmun">
                                 <div class="team-content">
                                     <div class="team-info">
-                                        <div class="team-text"><a href="team.php">Shavkat Mirziyoyev</a></div>
+                                        <div class="team-text"><a href="">Shavkat Mirziyoyev</a></div>
                                         <span>Direktor</span>
                                     </div>
                                     <div class="text">
@@ -511,14 +499,14 @@
                             <div class="col-md-5 col-sm-5 col-xs-12 team-colmun">
                                 <div class="clearfix">
                                     <figure class="img-box pull-left">
-                                        <a href="team.php"><img src="images/team/1.jpg" alt=""></a>
+                                        <a href=""><img src="images/team/1.jpg" alt=""></a>
                                     </figure>
                                 </div>
                             </div>
                             <div class="col-md-7 col-sm-7 col-xs-12 team-colmun">
                                 <div class="team-content">
                                     <div class="team-info">
-                                        <div class="team-text"><a href="team.php">Shavkat Mirziyoyev</a></div>
+                                        <div class="team-text"><a href="">Shavkat Mirziyoyev</a></div>
                                         <span>Direktor</span>
                                     </div>
                                     <div class="text">
@@ -542,14 +530,14 @@
                             <div class="col-md-5 col-sm-5 col-xs-12 team-colmun">
                                 <div class="clearfix">
                                     <figure class="img-box pull-left">
-                                        <a href="team.php"><img src="images/team/1.jpg" alt=""></a>
+                                        <a href=""><img src="images/team/1.jpg" alt=""></a>
                                     </figure>
                                 </div>
                             </div>
                             <div class="col-md-7 col-sm-7 col-xs-12 team-colmun">
                                 <div class="team-content">
                                     <div class="team-info">
-                                        <div class="team-text"><a href="team.php">Shavkat Mirziyoyev</a></div>
+                                        <div class="team-text"><a href="">Shavkat Mirziyoyev</a></div>
                                         <span>Direktor</span>
                                     </div>
                                     <div class="text">
@@ -652,9 +640,7 @@
             <div class="sponsors-area">
                 <ul class="sponsors-slider">
                     <li><a href="#"><figure><img src="images/sponsors/1.png" alt=""></figure></a></li>
-                    <li><a href="#"><figure><img src="images/sponsors/2.png" alt=""></figure></a></li>
-                    <li><a href="#"><figure><img src="images/sponsors/3.png" alt=""></figure></a></li>
-                    <li><a href="#"><figure><img src="images/sponsors/4.png" alt=""></figure></a></li>
+                    <li><a href="#"><figure><img src="images/sponsors/2.png" alt=""></figure></a></li>                   
                 </ul>
             </div>
         </div>

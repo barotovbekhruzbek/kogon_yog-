@@ -160,8 +160,13 @@
                                                 <li><a href="document/ustav2018.pdf">--Regulations++ </a></li>
                                                 <li><a href="document/boshqaruv.pdf">--Corporate Governance Code++ </a></li>
                                                 <li><a href="document/sholders.pdf">Shareholders++</a></li>
+<<<<<<< HEAD
                                                 <li><a href="document/Organizationalstructure.pdf">Organizational structure++</a></li>
                                                 <li><a href="afflanganlar.php">Affiliates</a></li>
+=======
+                                                <li><a href="document/organisition.pdf">Organizational structure++</a></li>
+                                                <li><a href="document/afflan.pdf">Affiliates</a></li>
+>>>>>>> origin/main
 
                                             </ul>
 
